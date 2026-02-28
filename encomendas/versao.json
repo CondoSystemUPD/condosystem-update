@@ -1,6 +1,6 @@
 {
   "versao": "2.0.0",
-  "url": "https://raw.githubusercontent.com/CondoSystemUPD/condosystem-update/main/encomendas/CondoSystem_Encomendas.exe",
-  "changelog": "Update obrigatório.",
+  "url": "https://raw.githubusercontent.com/CondoSystemUPD/condosystem-update/main/encomendas/Instalador_CondoSystem_Encomendas.exe",
+  "changelog": "Atualização de Versão Obrigadtória!",
   "obrigatorio": true
 }
