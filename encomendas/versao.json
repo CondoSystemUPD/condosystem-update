@@ -1,6 +1,6 @@
 {
   "versao": "2.0.0",
   "url": "https://raw.githubusercontent.com/CondoSystemUPD/condosystem-update/main/encomendas/CondoSystem_Encomendas.exe",
-  "changelog": "Migração para banco criptografado.",
-  "obrigatorio": true
+  "changelog": "Update não obrigatório.",
+  "obrigatorio": false
 }
